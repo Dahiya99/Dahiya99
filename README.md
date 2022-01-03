@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dahiya99
-- 👀 I’m interested in ...Data Analytics
+- 👀 I’m interested in ...Data Analytics and Data Science
 - 🌱 I’m currently working with ...Python , SQL , PL/SQL 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...mail me at sunildahiya.dcrust@gmail.com
